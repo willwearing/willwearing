@@ -30,13 +30,13 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernamewillwearing&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willwearing&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willwearing&theme=buefy&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://willwearingportfolio.netlify.app//"></a>
-<a href="https://www.linkedin.com/in/william-wearing/"></a>
+<a href="https://willwearingportfolio.netlify.app//">Portfolio</a>
+<a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
 <a href="mailto:willwearing@gmail.com">willwearing(at)gmail.com</a>
