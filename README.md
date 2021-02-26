@@ -3,8 +3,8 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Tech, Politics, Laymans Economics and Finance
-- 🎓 &nbsp; Studying Full Stack Web Development and CS at Lambda School
-- 💼 &nbsp; Current: Founder of Valkon.io. Previous: Director of Business Development @ HotelFurniture.com
+- 🎓 &nbsp; Full Stack Web Development and CS at Lambda School
+- 💼 &nbsp; Current: Co-founder of Valkon.io. Previous: Director of Business Development @ HotelFurniture.com
 - 🌱 &nbsp; Learning more about Frontend, user growth and UI/UX
 - ✍️ &nbsp; Working on 'increasing the size of the pie' and writing skills/actionable blogs
 
