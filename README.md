@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Tech, Politics, Laymans Economics and Finance
 - 🎓 &nbsp; Full Stack Web Development and CS at Lambda School
 - 💼 &nbsp; Current: Co-founder of Valkon.io. Previous: Director of Business Development @ HotelFurniture.com
-- 🌱 &nbsp; Learning more about Frontend, user growth and UI/UX
+- 🌱 &nbsp; Learning more about frontend, growth and UI/UX
 - ✍️ &nbsp; Working on 'increasing the size of the pie' and writing skills/actionable blogs
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
