@@ -41,5 +41,7 @@
   </br>
 <a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
 </br>
+<a href="https://twitter.com/willwearing/">LinkedIn</a>
+</br>
 <a href="mailto:willwearing@gmail.com">willwearing(at)gmail.com</a>
 </br>
