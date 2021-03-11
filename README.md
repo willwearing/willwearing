@@ -29,11 +29,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/willwearing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willwearing&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willwearing&theme=buefy&layout=compact" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
