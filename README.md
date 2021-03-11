@@ -31,7 +31,7 @@
 
 <a href="https://github.com/willwearing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willwearing&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willwearing&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willwearing&theme=buefy&layout=compact&langs_count=10" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
