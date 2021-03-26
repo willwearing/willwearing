@@ -21,7 +21,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![GraphQL](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
