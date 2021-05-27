@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Tech, Politics, Laymans Economics and Finance
 - 🎓 &nbsp; Full Stack Web Development and CS at Lambda School
 - 💼 &nbsp; Current: Product Engineer at Routific & Co-founder of Valkon.io
-- 🌱 &nbsp; Learning more about frontend, React, growth and UI/UX - looking to pivot to backend 
+- 🌱 &nbsp; Learning more about Fullstack and Growth
 - ✍️ &nbsp; Working on 'increasing the size of the pie' and writing skills/actionable blogs
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
