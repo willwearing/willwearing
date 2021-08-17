@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Full Stack Web Development and CS at Lambda School
 - 💼 &nbsp; Current: Product Engineer (mainly FE + React) at Routific & Co-founder of www.valkon.io
 - 🌱 &nbsp; Learning Java and Backend
-- ✍️ &nbsp; Working on 'increasing the size of the pie' and writing skills/actionable blogs
+- ✍️ &nbsp; Working on 'increasing the size of the pie' and writing a lot about recruitment
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
