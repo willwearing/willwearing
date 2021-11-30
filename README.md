@@ -2,7 +2,7 @@
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Tech, Politics, Laymans Economics and Finance
+- 🤔 &nbsp; Tech, Politics, 'Laymans' Economics and Recruitment
 - 🎓 &nbsp; Full Stack Web Development - Lambda School + Bradfield CS/University of London CS
 - 💼 &nbsp; Current: Product Engineer (mainly FE + React) at Routific, Career/Recruitment Advisor at Lambda School & Co-founder of www.valkon.io
 - 🌱 &nbsp; Learning Java and Backend
