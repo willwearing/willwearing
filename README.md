@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Tech, Politics, 'Laymans' Economics and Recruitment
 - 🎓 &nbsp; Full Stack Web Development - Lambda School + Bradfield CS/University of London CS
-- 💼 &nbsp; Current: Product Engineer (mainly FE + React) at Routific, Career/Recruitment Advisor at Lambda School & Co-founder of www.valkon.io
+- 💼 &nbsp; Current: Product Engineer (mainly FE + React) at Routific, Career/Recruitment Advisor at Lambda School & Co-founder of Valkon
 - 🌱 &nbsp; Learning Java and Backend
 - ✍️ &nbsp; Working on increasing the size of the pie
 
