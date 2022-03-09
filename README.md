@@ -21,7 +21,7 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![Postgres](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgres)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
   ![MongoDB](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
