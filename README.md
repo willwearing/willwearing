@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Full Stack Web Development - Lambda School + University of London CS
 - 💼 &nbsp; Current: Product Engineer at Routific & Co-founder of Valkon Recruitment
 - 🌱 &nbsp; Learning more about backend + building with NestJS
-- ✍️ &nbsp; Working on increasing the size of the pie
+- ✍️ &nbsp; Working on increasing the size of the pie and helping people earn more
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
