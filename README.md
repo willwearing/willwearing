@@ -2,11 +2,8 @@
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Tech, Politics, 'Laymans' Economics and Recruitment
-- 🎓 &nbsp; Full Stack Web Development - Lambda School + University of London CS
+- 🎓 &nbsp; Comp Sci - Uni of London & Full Stack Web Development - Lambda School
 - 💼 &nbsp; Current: Product Engineer at Routific & Co-founder of Valkon Recruitment
-- 🌱 &nbsp; Learning more about backend + building with NestJS
-- ✍️ &nbsp; Working on increasing the size of the pie and helping people earn more
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,10 +27,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/willwearing">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willwearing&theme=buefy&show_icons=true" />
-</a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
