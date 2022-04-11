@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://willwearingportfolio.netlify.app//">Portfolio</a>
+<a href="https://willwearingportfolio.netlify.app//">Personal Site</a>
   </br>
 <a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
 </br>
