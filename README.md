@@ -33,5 +33,5 @@
   </br>
 <a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
 </br>
-<a href="mailto:willwearing@gmail.com">willwearing(at)gmail.com</a>
+<a href="mailto:will@routific.com">willwearing(at)gmail.com</a>
 </br>
