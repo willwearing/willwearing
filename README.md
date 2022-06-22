@@ -3,7 +3,7 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; 1st Year Comp Sci Student - Uni of London. Past: Full Stack Web Development - Lambda School
-- 💼 &nbsp; Product Engineer at Routific & Co-founder of Valkon Recruitment
+- 💼 &nbsp; Product Engineer at Routific & Co-founder of Valkon Recruitment (valkon.io)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
