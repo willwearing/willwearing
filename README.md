@@ -2,8 +2,8 @@
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; 1st Year Comp Sci Student - Uni of London. Past: Full Stack Web Development - Lambda School
-- 💼 &nbsp; Product Engineer at Routific & Co-founder of Valkon Recruitment (valkon.io)
+- 🎓 &nbsp; Present: 1st Year Comp Sci Student at the Uni of London. Past: Full Stack Web Development at Lambda School (now Bloomtech)
+- 💼 &nbsp; Presnt: Product Engineer at Routific Past: Director of Business Development at HotelFurniture.com and Co-founder of Valkon Recruitment (valkon.io)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
