@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Will</h2>
+<h2> G'day! I'm Will</h2>
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
