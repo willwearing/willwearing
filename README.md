@@ -3,7 +3,7 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓&nbsp;Past: Full Stack Web Development at Lambda School (now Bloomtech)
-- 💼&nbsp;Present: Product Engineer at Routific Past: Director of Business Development at HotelFurniture.com and co-founder of Valkon Recruitment
+- 💼&nbsp;Present: Product Engineer at Routific Past: Director of Business Development at HotelFurniture.com and co-founder of Valkon Recruitment (www.valkon.co)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
