@@ -2,7 +2,7 @@
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 🎓&nbsp;Past: Full Stack Web Development at Lambda School (now Bloomtech)
+- 🎓&nbsp;Full Stack Web Development at Lambda School (now Bloomtech)
 - 💼&nbsp;Product Engineer at Routific
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
