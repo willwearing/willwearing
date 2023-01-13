@@ -4,6 +4,7 @@
 
 - 🎓&nbsp;Full Stack Web Development at Lambda School (now Bloomtech)
 - 💼&nbsp;Product Engineer at Routific
+- 📖&nbsp;All things growth
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
