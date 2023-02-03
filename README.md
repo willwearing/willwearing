@@ -2,9 +2,9 @@
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 🎓&nbsp;Full Stack Web Dev Bootcamp at Lambda School (now Bloomtech)
-- 💼&nbsp;Product Engineer at Routific
-- 📖&nbsp;All things frontend/growth
+- 🎓&nbsp; Full Stack Web Dev Bootcamp at Lambda School (now Bloomtech)
+- 💼&nbsp; Product Engineer at Routific
+- 📖&nbsp; All things frontend/growth
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
