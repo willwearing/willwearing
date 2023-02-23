@@ -4,7 +4,7 @@
 
 - 🎓&nbsp; Full Stack Web Dev Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Product Engineer at Routific
-- 📖&nbsp; Fullstack
+- 📖&nbsp; All things growth
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
