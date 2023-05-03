@@ -4,7 +4,7 @@
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Product Engineer at Routific
-- 📖&nbsp; Mastering the data layer: GraphQL and backend
+- 📖&nbsp; DeckGL and backend
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
