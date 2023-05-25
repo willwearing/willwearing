@@ -3,7 +3,7 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
-- 💼&nbsp; Product Engineer at Routific
+- 💼&nbsp; Intermediate Product Engineer at Routific
 - 📖&nbsp; DeckGL and backend
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
