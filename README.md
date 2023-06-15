@@ -5,7 +5,7 @@
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Intermediate Product Engineer at Routific
 - 📖&nbsp; MobX, DeckGL and all things backend
-- 💡&nbsp; Backend things
+- 💡&nbsp; DeckGL and Backend things
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
