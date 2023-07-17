@@ -4,7 +4,7 @@
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Intermediate Product Engineer at Routific (hoping to be Senior within the year - hold me accountable)
-- 📖&nbsp; OOP and Backend
+- 📖&nbsp; Honestly everything full stack :D 
 - 💡&nbsp; Growth
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
