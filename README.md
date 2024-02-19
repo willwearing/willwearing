@@ -1,11 +1,11 @@
-<h2> G'day, I'm Will</h2>
+<h2> Hey, I'm Will</h2>
 
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Intermediate Product Engineer at Routific 
 - 📖&nbsp; Clean Code
-- 💡&nbsp; Growth
+- 💡&nbsp; FlipperZero stuff
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,6 +30,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h3> 🤝🏻 &nbsp;Connect:</h3>
+
+<p>
+<a href="https://willwearingportfolio.netlify.app//">Personal site/Portfolio</a>
+  </br>
+<a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
+</br>
+<a href="mailto:will@routific.com">willwearing(at)gmail.com</a>
+</br>
+
 
 <p>
 <a href="https://willwearingportfolio.netlify.app//">Personal site/Portfolio</a>
