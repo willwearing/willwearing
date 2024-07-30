@@ -5,8 +5,8 @@
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
 - 💼&nbsp; Intermediate Product Engineer at Routific 
 - 📖&nbsp; Clean Code
-- 💡&nbsp; C (maybe Rust?!) for Flipper Zero stuff
-
+- 💡&nbsp; Data + db's
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
