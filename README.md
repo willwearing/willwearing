@@ -3,9 +3,9 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
-- 💼&nbsp; Intermediate Product Engineer at Routific 
-- 📖&nbsp; Clean Code
-- 💡&nbsp; Data + db's
+- 💼&nbsp; Senior Product Engineer at Routific 
+- 📖&nbsp; Fundementals of Data Engineering
+- 💡&nbsp; Data 
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
