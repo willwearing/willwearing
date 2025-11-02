@@ -38,12 +38,3 @@
 </br>
 <a href="mailto:will@routific.com">willwearing(at)gmail.com</a>
 </br>
-
-
-<p>
-<a href="https://willwearingportfolio.netlify.app//">Personal site/Portfolio</a>
-  </br>
-<a href="https://www.linkedin.com/in/william-wearing/">LinkedIn</a>
-</br>
-<a href="mailto:will@routific.com">willwearing(at)gmail.com</a>
-</br>
