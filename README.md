@@ -3,9 +3,9 @@
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
-- 💼&nbsp; Senior Product Engineer at Routific 
-- 📖&nbsp; Fundementals of Data Engineering
-- 💡&nbsp; Data 
+- 💼&nbsp; Current: Technical sales at [Posthog](https://posthog.com/). Previously: Senior Product Engineer at [Routific](https://www.routific.com/) 
+- 📖&nbsp; The Transparency Sale
+- 💡&nbsp; Mastering technical sales 
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
