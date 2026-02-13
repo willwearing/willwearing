@@ -1,8 +1,8 @@
 <h2> Hey, I'm Will</h2>
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-- 💼&nbsp; Current: Technical Sales at [PostHog](https://posthog.com/). Previously: Senior Product Engineer at [Routific](https://www.routific.com/)
-- 🎓&nbsp; Full Stack Web Development Bootcamp at Lambda School (now Bloomtech)
+- 💼&nbsp; Current: Technical Sales stuff at [PostHog](https://posthog.com/). Previously: Senior Product Engineer ("pro" prompt engineer :D) at [Routific](https://www.routific.com/)
+- 🎓&nbsp; Web dev bootcamp at Lambda School 
 - 📖&nbsp; Mastering Technical Sales: The Sales Engineer's Handbook
 - 💡&nbsp; 'the f*ck is a data warehouse?!'
   
