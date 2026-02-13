@@ -1,7 +1,7 @@
 <h2> Hey, I'm Will</h2>
 <h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
-<h5>Hi there! My names Will and I'm a Technical Account Manager at PostHog. I was previously a Product Engineer at Routific. I've always loved tech and building so thought I'd "do it the hard way" and try becoming an Engineer after sales.</h5>
+<h4>Hi there! My names Will and I'm a Technical Account Manager at PostHog. I was previously a Product Engineer at Routific. I've always loved tech and building so thought I'd "do it the hard way" and try becoming an Engineer after sales.</h4>
 
 - 💼&nbsp; Current: Technical Sales stuff at [PostHog](https://posthog.com/). Previously: Senior Product Engineer ("pro" prompt engineer :D) at [Routific](https://www.routific.com/)
 - 🎓&nbsp; Web dev bootcamp at Lambda School 
